@@ -1,4 +1,7 @@
+<!-- @format -->
+
 # Explanation:
+
 - **`hostname`:** Retrieves the system's **Hostname**.
 - **`uname -o`:** Provides the operating **System Name**.
 - **`uname -r`:** Outputs the **Kernel Version**.
