@@ -21,4 +21,3 @@
    - Uses ping to verify connectivity to the server:
      - **`-c 1`**: Sends one ICMP echo request.
      - **`-W 2`**: Sets a timeout of 2 seconds for the reply.
-     -
